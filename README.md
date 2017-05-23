@@ -1,3 +1,1 @@
-# hello-world
-so this is a 2nd branch from the master. read me changed
-but no change to the files
+So this one will merge with master, stay open, then master will be changed by another branch leaving this one behind
